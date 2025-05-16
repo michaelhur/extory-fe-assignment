@@ -16,6 +16,7 @@ Extory에서 [이미 제공하고 있는 페이지](https://extory.co/blogs)를 
 - [Swagger 바로가기](https://extory.co/api-docs)
 - [Figma 바로가기](https://www.figma.com/design/rfrtG1czp6RqUTadbuScfD/%EA%B3%BC%EC%A0%9C?node-id=0-1&m=dev&t=jSd7sSzL5x1LEyEq-1)
 - [익스토리 블로그 페이지](https://extory.co/blogs)
+- [이미지 파일](https://github.com/michaelhur/extory-fe-assignment/tree/master/resource)
 
 ## 1. 기본 공통 요구사항
 
